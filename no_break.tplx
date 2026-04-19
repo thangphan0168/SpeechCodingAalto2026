@@ -1,0 +1,7 @@
+((*- extends 'index.tex.j2' -*))
+
+((* block codecell *))
+\begin{samepage}
+((( super() )))
+\end{samepage}
+((* endblock codecell *))
